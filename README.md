@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Aniket Pradhan 👋
 
-<!--
-**student-aniketroczz/student-aniketroczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integrated M.Tech Software Engineering student @ VIT Vellore · Web Developer
 
-Here are some ideas to get you started:
+I build fast, mobile-friendly websites for local businesses, and I'm looking for software development / web development internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: aniket-webdev.netlify.app 📫 Email: aniketapsb@gmail.com
+
+🚀 Featured Projects
+Project	What it does	Live
+Glow Studio Salon	Salon site with photo gallery, Google Maps and WhatsApp appointment booking with date picker	View ↗
+Bright Future Tuition	Coaching centre site with course cards, teacher profiles and a demo-class booking form	View ↗
+Golden Crust Bakery	Bakery site with menu, pricing and one-tap WhatsApp ordering	View ↗
+PROJECT-DABBA	Offline-first notes app with sync and conflict resolution	Code
+🛠️ Tech I Work With
+
+Web: HTML · CSS · JavaScript · Responsive Design Languages: Python DevOps & Tools: Git · GitHub · Jenkins (CI/CD pipelines) · Netlify
+
+🌱 Currently Learning
+React
+Git workflows and collaboration
+Backend development
+
+💬 Open to internships and freelance website projects. Feel free to reach out!
